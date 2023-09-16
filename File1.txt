@@ -1,17 +1,17 @@
 File1
 
-#A00476462
-
-<<<<<<< HEAD
-public int Substraction (int a, int b) {
-	return a-b;
-=======
-public int multiplication (int a, int b) {
-	return a*b;
-}
-
 #A00477214
 public int addition (int a, int b){
 	return a+b;
->>>>>>> d8058bd4b5ab891ea08a4244fccf42b8fea6a91d
+}
+
+#A00476462
+
+public int Substraction (int a, int b) {
+	return a-b;
+
+#A00476407
+
+public int multiplication (int a, int b) {
+	return a*b;
 }

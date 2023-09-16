@@ -1,17 +1,18 @@
 File2
 
+#A00477214
+public int division (int a, int b){
+	return a/b;
+}
+
 #A00476462
 
-<<<<<<< HEAD
 public int Mod(int a, int b) {
 	return a%b;
-=======
+
+#A00476407
+
 public int min(int a, int b) {
 	return Math.min(a,b);
 }
 
-#A00477214
-public int division (int a, int b){
-	return a/b;
->>>>>>> d8058bd4b5ab891ea08a4244fccf42b8fea6a91d
-}

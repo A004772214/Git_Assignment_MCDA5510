@@ -1,13 +1,17 @@
 File3
 
-<<<<<<< HEAD
+#A00477214
+public int max (int a, int b){
+	return max(a, b) - Math.Max();
+}
+
 #A00476462
 
 public int Avg(int a, int b) {
 	return Math.avg(a,b);
-=======
-#A00477214
-public int max (int a, int b){
-	return max(a, b) - Math.Max();
->>>>>>> d8058bd4b5ab891ea08a4244fccf42b8fea6a91d
-}
+
+#A00476407
+
+public int pow(int a, int b) {
+	return Math.pow(a,b);
+} 
