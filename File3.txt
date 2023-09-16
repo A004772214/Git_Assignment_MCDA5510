@@ -1,7 +1,6 @@
 File3
 
-#A000476407
-
-public int pow(int a, int b) {
-	return Math.pow(a,b);
+#A00477214
+public int max (int a, int b){
+	return max(a, b) - Math.Max();
 }
