@@ -1,7 +1,7 @@
 File1
 
-#A000476407
+#A00476462
 
-public int multiplication (int a, int b) {
-	return a*b;
+public int Substraction (int a, int b) {
+	return a-b;
 }

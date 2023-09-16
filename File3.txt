@@ -1,7 +1,7 @@
 File3
 
-#A000476407
+#A00476462
 
-public int pow(int a, int b) {
-	return Math.pow(a,b);
+public int Avg(int a, int b) {
+	return Math.avg(a,b);
 }

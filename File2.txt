@@ -1,7 +1,7 @@
 File2
 
-#A000476407
+#A00476462
 
-public int min(int a, int b) {
-	return Math.min(a,b);
+public int Mod(int a, int b) {
+	return a%b;
 }
